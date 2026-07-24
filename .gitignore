@@ -1,0 +1,61 @@
+# ============================================================
+# MERIDIAN .gitignore  -  code and small results only, NO data
+# ============================================================
+
+# ---- Python / build ----
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+*.so
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+.uv/
+
+# ---- Editors / OS / local tool config ----
+.vscode/
+.idea/
+.DS_Store
+*.swp
+.claude/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Logs ----
+*.log
+# Per-run experiment logs (train.jsonl / per-run summary.json) stay local;
+# commit only top-level results.md / results_full.csv / sweep_state.json.
+logs/
+
+# ---- DATA: never commit any data (obtain per DATA.md) ----
+# a bare "data/" matches ANY directory named data at any depth, so this also
+# covers simulator/data/ and model/diagnostics/*/data/. The file-type rules
+# below are belt-and-suspenders in case data lands outside a data/ folder.
+data/
+*.npz
+*.npy
+*.nii
+*.nii.gz
+*.1D
+*.tar
+*.tar.gz
+*.pt
+
+# ---- Large per-coefficient result CSVs (keep only small summaries) ----
+results/**/marginal.csv
+results/test_b_marginal.csv
+
+# ---- Superseded figure generations (kept locally, not committed) ----
+figures/paper_old/
+
+# ---- Internal notes & abandoned-model tables: never publish ----
+paper/notes/
+paper/results/paper_tables/
+CLAUDE.md

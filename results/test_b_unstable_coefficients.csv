@@ -1,0 +1,50 @@
+coefficient_i,coefficient_j,region_i_atlas,region_j_atlas,region_i_label,region_j_label,region_i_network,region_j_network,MNI_i_xyz,MNI_j_xyz,rejection_fraction,mean_dz_se,median_p_fdr
+22,22,93,93,Right Caudate,Right Caudate,None,None,"(+14, -1, +18)","(+14, -1, +18)",0.5824175824175825,7.4226744579912065,4.589721652095444e-07
+31,31,180,180,Temporal Pole,Temporal Pole,Default,Default,"(+46, +13, -23)","(+46, +13, -23)",0.5384615384615384,5.624150319757474,0.0100092329590068
+20,20,198,198,Unlabelled,Unlabelled,None,None,"(-15, -31, -18)","(-15, -31, -18)",0.5274725274725275,5.4696431255052635,0.0019273978408129
+26,26,194,194,Lingual Gyrus,Lingual Gyrus,Visual,Visual,"(+9, -87, -12)","(+9, -87, -12)",0.4835164835164835,4.373164697526102,0.144330274883279
+45,45,23,23,Parietal Opercular Cortex,Parietal Opercular Cortex,VentralAttn,VentralAttn,"(-58, -27, +16)","(-58, -27, +16)",0.4835164835164835,4.345516138607354,0.0540431536214979
+14,14,41,41,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(-28, +51, -12)","(-28, +51, -12)",0.4835164835164835,4.638905456924817,0.0591001642887138
+19,19,112,112,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(+43, +50, -4)","(+43, +50, -4)",0.4725274725274725,3.9032161192472437,0.099021488090479
+40,40,166,166,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(-25, +52, +23)","(-25, +52, +23)",0.4725274725274725,3.7584531489746076,0.4472857398164917
+12,12,50,50,Paracingulate Gyrus,Paracingulate Gyrus,Default,Default,"(-0, +39, -12)","(-0, +39, -12)",0.46153846153846156,3.973943801184379,0.0931698274133315
+0,0,108,108,Frontal Pole,Frontal Pole,None,None,"(+1, +56, -7)","(+1, +56, -7)",0.46153846153846156,3.4089454854833603,0.1449804432863094
+6,6,85,85,Brain-Stem,Brain-Stem,None,None,"(+9, -44, -37)","(+9, -44, -37)",0.46153846153846156,4.707266016896499,0.2481036900259419
+34,34,22,22,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(-42, +41, +13)","(-42, +41, +13)",0.46153846153846156,4.064885770058767,0.2729468893520109
+38,38,24,24,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(+44, +41, +14)","(+44, +41, +14)",0.45054945054945056,4.163730340668253,0.2852464099962849
+29,29,123,123,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(+28, +44, -14)","(+28, +44, -14)",0.45054945054945056,4.78021228453751,0.1544526583865318
+27,27,33,33,Middle Frontal Gyrus,Middle Frontal Gyrus,DorsalAttn,DorsalAttn,"(-46, +8, +32)","(-46, +8, +32)",0.45054945054945056,4.066245547355468,0.3056761023883446
+30,30,192,192,Frontal Pole,Frontal Pole,Default,Default,"(+15, +56, +29)","(+15, +56, +29)",0.43956043956043955,3.676974946067731,0.1765715639632737
+48,48,176,176,Lingual Gyrus,Lingual Gyrus,Visual,Visual,"(-14, -74, -10)","(-14, -74, -10)",0.43956043956043955,3.9265805754082725,0.2352996987212105
+44,44,150,150,Middle Frontal Gyrus,Middle Frontal Gyrus,Frontoparietal,Frontoparietal,"(-44, +26, +27)","(-44, +26, +27)",0.42857142857142855,3.628537899938331,0.2427509923344749
+46,46,73,73,Frontal Orbital Cortex,Frontal Orbital Cortex,Default,Default,"(-44, +33, -8)","(-44, +33, -8)",0.42857142857142855,4.000302427774776,0.2988311174886381
+49,49,39,39,"Cingulate Gyrus, anterior division","Cingulate Gyrus, anterior division",Frontoparietal,Frontoparietal,"(+2, +33, +24)","(+2, +33, +24)",0.42857142857142855,3.532782491252836,0.2164071888507975
+11,11,45,45,"Cingulate Gyrus, posterior division","Cingulate Gyrus, posterior division",Default,Default,"(+2, -38, +32)","(+2, -38, +32)",0.42857142857142855,3.5011380171013267,0.1697097974807157
+18,18,11,11,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(+28, +58, -2)","(+28, +58, -2)",0.4175824175824176,4.06100609566177,0.2929501238473635
+23,23,162,162,Precuneous Cortex,Precuneous Cortex,DorsalAttn,DorsalAttn,"(+10, -64, +56)","(+10, -64, +56)",0.4175824175824176,3.832538504772821,0.1370241172930271
+2,2,90,90,Left Cerebral Cortex,Left Cerebral Cortex,Default,Default,"(+0, +52, +26)","(+0, +52, +26)",0.4175824175824176,3.57856831656039,0.1606204546770946
+8,8,81,81,"Lateral Occipital Cortex, superior division","Lateral Occipital Cortex, superior division",Default,Default,"(-43, -67, +41)","(-43, -67, +41)",0.4175824175824176,3.7722355581833305,0.2149789213493822
+36,36,183,183,Central Opercular Cortex,Central Opercular Cortex,VentralAttn,VentralAttn,"(-47, +5, +3)","(-47, +5, +3)",0.4175824175824176,3.975517242645027,0.4823338870795252
+21,21,74,74,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(+32, +55, +15)","(+32, +55, +15)",0.4065934065934066,3.7613906251952836,0.2453495408833485
+42,42,107,107,Occipital Pole,Occipital Pole,Visual,Visual,"(-7, -93, +1)","(-7, -93, +1)",0.4065934065934066,2.890737999767816,0.6924292178485367
+41,41,115,115,"Supramarginal Gyrus, anterior division","Supramarginal Gyrus, anterior division",DorsalAttn,DorsalAttn,"(-56, -29, +37)","(-56, -29, +37)",0.4065934065934066,4.209738806291696,0.5050168406501399
+43,43,118,118,Central Opercular Cortex,Central Opercular Cortex,VentralAttn,VentralAttn,"(+56, +4, +6)","(+56, +4, +6)",0.3956043956043956,3.473782630420979,0.5432786308209057
+16,16,104,104,Lingual Gyrus,Lingual Gyrus,Visual,Visual,"(+18, -55, +3)","(+18, -55, +3)",0.3956043956043956,3.5939628957010537,0.1741515778105623
+9,9,80,80,Precuneous Cortex,Precuneous Cortex,Visual,Visual,"(+14, -77, +39)","(+14, -77, +39)",0.3956043956043956,2.8986501472537785,0.5717669098446897
+39,39,103,103,Frontal Pole,Frontal Pole,Default,Default,"(-9, +62, +14)","(-9, +62, +14)",0.38461538461538464,3.1467035358141198,0.2580517307564975
+3,3,21,21,"Cingulate Gyrus, anterior division","Cingulate Gyrus, anterior division",Default,Default,"(+7, +43, +6)","(+7, +43, +6)",0.37362637362637363,3.0919865903392822,0.3474710469069072
+5,5,182,182,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(-28, +57, +5)","(-28, +57, +5)",0.3626373626373626,3.4880266139741374,0.5640589229906715
+17,17,168,168,Frontal Pole,Frontal Pole,Frontoparietal,Frontoparietal,"(-41, +49, -3)","(-41, +49, -3)",0.3626373626373626,3.428685154329957,0.5099797707581651
+1,1,57,57,Precuneous Cortex,Precuneous Cortex,None,None,"(+2, -53, +15)","(+2, -53, +15)",0.3626373626373626,3.1713757102346665,0.4218564692699082
+32,32,29,29,Brain-Stem,Brain-Stem,None,None,"(+3, -28, -36)","(+3, -28, -36)",0.3516483516483517,4.531108945686204,0.5767008175127174
+33,33,141,141,Occipital Pole,Occipital Pole,Visual,Visual,"(+18, -90, +23)","(+18, -90, +23)",0.34065934065934067,2.7326961933333767,0.5331531074816342
+4,4,138,138,Frontal Pole,Frontal Pole,Default,Default,"(+11, +63, +10)","(+11, +63, +10)",0.32967032967032966,2.9324985436745266,0.5977311769779087
+47,47,165,165,"Lateral Occipital Cortex, superior division","Lateral Occipital Cortex, superior division",Default,Default,"(+45, -65, +39)","(+45, -65, +39)",0.32967032967032966,3.325497707802159,0.3160552305931183
+7,7,173,173,Precuneous Cortex,Precuneous Cortex,Default,Default,"(-1, -55, +38)","(-1, -55, +38)",0.32967032967032966,2.398568361561186,0.6574714461699886
+13,13,2,2,Precuneous Cortex,Precuneous Cortex,Default,Default,"(+13, -64, +24)","(+13, -64, +24)",0.31868131868131866,2.7551843546520893,0.3884832356715062
+24,24,146,146,Precuneous Cortex,Precuneous Cortex,Frontoparietal,Frontoparietal,"(-8, -75, +41)","(-8, -75, +41)",0.31868131868131866,2.8212643828226365,0.5320846066140087
+35,35,130,130,Occipital Pole,Occipital Pole,Visual,Visual,"(-26, -93, +12)","(-26, -93, +12)",0.3076923076923077,2.618329292941088,0.5193578571144297
+37,37,101,101,"Lateral Occipital Cortex, inferior division","Lateral Occipital Cortex, inferior division",Visual,Visual,"(+36, -87, +10)","(+36, -87, +10)",0.2967032967032967,2.773045154087276,0.6034483928247232
+15,15,43,43,Occipital Pole,Occipital Pole,Visual,Visual,"(+14, -94, +2)","(+14, -94, +2)",0.2857142857142857,2.586129331648846,0.568498688341157
+25,25,69,69,Intracalcarine Cortex,Intracalcarine Cortex,Visual,Visual,"(-11, -70, +6)","(-11, -70, +6)",0.27472527472527475,2.6431349287525143,0.4836664078261558
+28,28,53,53,Cuneal Cortex,Cuneal Cortex,Visual,Visual,"(-5, -87, +25)","(-5, -87, +25)",0.26373626373626374,2.40424544885654,0.545705914230581

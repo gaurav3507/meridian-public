@@ -1,0 +1,85 @@
+variant,cc200_label,mni_x,mni_y,mni_z,ho_cortical,ho_subcortical,anat,yeo,signal_poor
+primary_top50,40,0.6,-41.8,-59.8,Background,Brain-Stem,Brain-Stem,None,True
+primary_top50,143,9.4,68.1,0.0,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+primary_top50,37,2.0,-79.0,7.8,Intracalcarine Cortex,Right Cerebral Cortex,Intracalcarine Cortex,None,False
+primary_top50,194,15.1,-75.1,53.1,"Lateral Occipital Cortex, superior division",Right Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+primary_top50,182,26.4,62.6,9.5,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+primary_top50,154,-0.8,-56.1,45.6,Precuneous Cortex,Left Cerebral Cortex,Precuneous Cortex,None,False
+primary_top50,38,-31.9,57.6,-12.4,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+primary_top50,21,-13.8,-63.5,65.1,"Lateral Occipital Cortex, superior division",Left Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+primary_top50,186,-4.7,-28.3,72.7,Precentral Gyrus,Left Cerebral Cortex,Precentral Gyrus,None,False
+primary_top50,90,9.3,61.2,25.7,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+primary_top50,28,-10.4,-89.4,34.2,Occipital Pole,Left Cerebral Cortex,Occipital Pole,None,False
+primary_top50,193,-34.2,-73.5,49.0,"Lateral Occipital Cortex, superior division",Left Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+primary_top50,198,-9.7,61.4,-16.4,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+primary_top50,80,-0.6,-41.7,28.4,"Cingulate Gyrus, posterior division",Left Cerebral Cortex,"Cingulate Gyrus, posterior division",None,False
+primary_top50,96,-9.4,-98.0,-10.2,Occipital Pole,Left Cerebral Cortex,Occipital Pole,None,False
+primary_top50,161,38.8,-68.4,52.0,"Lateral Occipital Cortex, superior division",Right Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+primary_top50,101,15.1,-16.1,73.7,Precentral Gyrus,Right Cerebral Cortex,Precentral Gyrus,None,False
+primary_top50,103,-33.3,-48.5,66.0,Superior Parietal Lobule,Left Cerebral Cortex,Superior Parietal Lobule,None,False
+primary_top50,115,41.0,51.0,4.5,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+primary_top50,136,63.5,-24.1,25.8,"Supramarginal Gyrus, anterior division",Right Cerebral Cortex,"Supramarginal Gyrus, anterior division",None,False
+primary_top50,127,-48.8,-72.7,29.6,"Lateral Occipital Cortex, superior division",Left Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+primary_top50,155,53.6,12.0,-5.4,Temporal Pole,Right Cerebral Cortex,Temporal Pole,None,True
+primary_top50,149,51.8,-46.1,55.4,Angular Gyrus,Right Cerebral Cortex,Angular Gyrus,None,False
+primary_top50,56,-13.2,-8.8,73.8,Superior Frontal Gyrus,Left Cerebral Cortex,Superior Frontal Gyrus,None,False
+primary_top50,47,33.7,-43.9,67.6,Superior Parietal Lobule,Right Cerebral Cortex,Superior Parietal Lobule,None,False
+primary_top50,16,-13.5,46.8,43.4,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+primary_top50,100,53.6,-64.8,33.3,"Lateral Occipital Cortex, superior division",Right Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+primary_top50,29,18.3,-97.7,-8.7,Occipital Pole,Right Cerebral Cortex,Occipital Pole,None,False
+primary_top50,48,-47.1,37.9,-11.6,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+primary_top50,139,-10.8,31.8,57.2,Superior Frontal Gyrus,Left Cerebral Cortex,Superior Frontal Gyrus,None,False
+primary_top50,63,-14.1,-67.7,25.7,Precuneous Cortex,Left Cerebral Cortex,Precuneous Cortex,None,False
+primary_top50,166,-50.3,-53.5,52.1,Angular Gyrus,Left Cerebral Cortex,Angular Gyrus,None,False
+primary_top50,190,-38.9,-81.9,-17.3,"Lateral Occipital Cortex, inferior division",Left Cerebral Cortex,"Lateral Occipital Cortex, inferior division",None,False
+primary_top50,114,-58.2,-6.0,28.8,Precentral Gyrus,Left Cerebral Cortex,Precentral Gyrus,None,False
+primary_top50,51,-60.1,-27.8,39.9,"Supramarginal Gyrus, anterior division",Left Cerebral Cortex,"Supramarginal Gyrus, anterior division",None,False
+primary_top50,116,-33.8,54.6,7.9,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+primary_top50,27,-45.9,38.3,11.9,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+primary_top50,172,-48.6,-25.2,59.2,Postcentral Gyrus,Left Cerebral Cortex,Postcentral Gyrus,None,False
+primary_top50,150,31.9,48.4,26.7,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+matched_region,3,10.7,59.5,-21.2,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+matched_region,12,17.0,-64.1,26.0,Precuneous Cortex,Right Cerebral Cortex,Precuneous Cortex,None,False
+matched_region,22,62.1,-5.9,-17.4,"Middle Temporal Gyrus, anterior division",Right Cerebral Cortex,"Middle Temporal Gyrus, anterior division",None,False
+matched_region,23,33.8,15.3,57.5,Middle Frontal Gyrus,Right Cerebral Cortex,Middle Frontal Gyrus,None,False
+matched_region,24,13.9,-34.0,49.3,Postcentral Gyrus,Right Cerebral Cortex,Postcentral Gyrus,None,False
+matched_region,30,48.8,-67.2,-33.5,Background,Background,Unlabelled,None,False
+matched_region,40,0.6,-41.8,-59.8,Background,Brain-Stem,Brain-Stem,None,True
+matched_region,42,61.8,-44.3,34.4,"Supramarginal Gyrus, posterior division",Right Cerebral Cortex,"Supramarginal Gyrus, posterior division",None,False
+matched_region,44,36.6,-17.4,66.5,Precentral Gyrus,Right Cerebral Cortex,Precentral Gyrus,None,False
+matched_region,51,-60.1,-27.8,39.9,"Supramarginal Gyrus, anterior division",Left Cerebral Cortex,"Supramarginal Gyrus, anterior division",None,False
+matched_region,54,-12.3,13.2,4.5,Background,Left Caudate,Left Caudate,None,False
+matched_region,58,23.1,-3.0,51.1,Background,Right Cerebral Cortex,Right Cerebral Cortex,None,False
+matched_region,70,49.7,-31.0,-2.1,"Middle Temporal Gyrus, posterior division",Right Cerebral Cortex,"Middle Temporal Gyrus, posterior division",None,False
+matched_region,74,46.1,27.6,38.1,Middle Frontal Gyrus,Right Cerebral Cortex,Middle Frontal Gyrus,None,False
+matched_region,75,-28.7,21.9,48.7,Middle Frontal Gyrus,Left Cerebral Cortex,Middle Frontal Gyrus,None,False
+matched_region,81,-35.5,-9.8,-42.5,"Temporal Fusiform Cortex, anterior division",Left Cerebral Cortex,"Temporal Fusiform Cortex, anterior division",None,False
+matched_region,86,-32.4,40.1,29.3,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+matched_region,89,0.9,6.8,36.2,"Cingulate Gyrus, anterior division",Left Cerebral Cortex,"Cingulate Gyrus, anterior division",None,False
+matched_region,91,41.5,-1.6,-46.0,"Inferior Temporal Gyrus, anterior division",Right Cerebral Cortex,"Inferior Temporal Gyrus, anterior division",None,True
+matched_region,94,48.8,0.6,50.8,Precentral Gyrus,Right Cerebral Cortex,Precentral Gyrus,None,False
+matched_region,102,-47.0,-50.1,-45.9,Background,Background,Unlabelled,None,False
+matched_region,104,32.3,-82.8,-36.4,Background,Background,Unlabelled,None,False
+matched_region,105,16.4,-74.8,-50.9,Background,Background,Unlabelled,None,False
+matched_region,108,-22.4,-42.6,-51.5,Background,Background,Unlabelled,None,False
+matched_region,109,-62.3,-54.3,10.6,"Middle Temporal Gyrus, temporooccipital part",Left Cerebral Cortex,"Middle Temporal Gyrus, temporooccipital part",None,False
+matched_region,113,-17.4,-29.6,9.5,Background,Left Thalamus,Left Thalamus,None,False
+matched_region,116,-33.8,54.6,7.9,Frontal Pole,Left Cerebral Cortex,Frontal Pole,None,True
+matched_region,119,20.3,-73.3,-10.2,Occipital Fusiform Gyrus,Right Cerebral Cortex,Occipital Fusiform Gyrus,None,False
+matched_region,124,-34.0,21.5,2.9,Insular Cortex,Left Cerebral Cortex,Insular Cortex,None,False
+matched_region,131,-31.3,-86.4,24.1,"Lateral Occipital Cortex, superior division",Left Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+matched_region,139,-10.8,31.8,57.2,Superior Frontal Gyrus,Left Cerebral Cortex,Superior Frontal Gyrus,None,False
+matched_region,142,40.0,-84.8,-13.1,"Lateral Occipital Cortex, inferior division",Right Cerebral Cortex,"Lateral Occipital Cortex, inferior division",None,False
+matched_region,147,-1.0,36.1,-8.8,"Cingulate Gyrus, anterior division",Right Cerebral Cortex,"Cingulate Gyrus, anterior division",None,False
+matched_region,151,31.0,-39.5,-44.6,Background,Background,Unlabelled,None,False
+matched_region,163,42.9,-41.8,-23.2,Temporal Occipital Fusiform Cortex,Right Cerebral Cortex,Temporal Occipital Fusiform Cortex,None,False
+matched_region,166,-50.3,-53.5,52.1,Angular Gyrus,Left Cerebral Cortex,Angular Gyrus,None,False
+matched_region,167,-19.3,-12.9,-27.2,"Parahippocampal Gyrus, anterior division",Left Cerebral Cortex,"Parahippocampal Gyrus, anterior division",None,False
+matched_region,169,14.2,-30.6,-38.1,Background,Brain-Stem,Brain-Stem,None,True
+matched_region,174,-0.9,-22.8,-10.8,Background,Background,Unlabelled,None,False
+matched_region,177,2.4,19.9,-24.5,Subcallosal Cortex,Right Cerebral Cortex,Subcallosal Cortex,None,True
+matched_region,181,26.8,34.7,-16.4,Frontal Pole,Right Cerebral Cortex,Frontal Pole,None,True
+matched_region,183,-26.9,-60.8,-29.3,Background,Background,Unlabelled,None,False
+matched_region,184,25.5,-36.8,-12.3,"Parahippocampal Gyrus, posterior division",Right Cerebral Cortex,"Parahippocampal Gyrus, posterior division",None,False
+matched_region,193,-34.2,-73.5,49.0,"Lateral Occipital Cortex, superior division",Left Cerebral Cortex,"Lateral Occipital Cortex, superior division",None,False
+matched_region,199,12.3,45.2,7.5,Paracingulate Gyrus,Right Cerebral Cortex,Paracingulate Gyrus,None,False

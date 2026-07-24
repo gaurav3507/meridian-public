@@ -1,0 +1,22 @@
+[project]
+name = "meridian-sms"
+version = "0.1.0"
+description = "VAR(1) mechanism-stability diagnostic for grouping variables in fMRI (ABIDE-I site and AOMIC condition analyses)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "neurocombat>=0.2.12",
+    "neuroharmonize>=2.4.5",
+    "nibabel>=5.4.2",
+    "nilearn>=0.13.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "pillow>=12.2.0",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.17.1",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "tqdm>=4.68.3",
+]

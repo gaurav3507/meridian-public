@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Site shifts regional autocorrelation, condition shifts cross-region coupling: a vector-autoregressive diagnostic for grouping variables in fMRI"
+authors:
+  - family-names: Goyal
+    given-names: Gaurav
+  - family-names: Tiwari
+    given-names: Shailendra
+  - family-names: Khurana
+    given-names: Manju
+version: 0.1.0
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/gaurav3507/meridian"
+# DOI: PLACEHOLDER — replace with the Zenodo DOI minted on public release
+doi: "10.5281/zenodo.PLACEHOLDER"

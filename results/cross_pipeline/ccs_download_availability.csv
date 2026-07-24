@@ -1,0 +1,15 @@
+SITE_ID,n_cpac_retained,n_ccs_available,dropped,below_min_N
+CALTECH,35,35,0,False
+KKI,39,39,0,False
+LEUVEN_2,30,30,0,False
+MAX_MUN,41,41,0,False
+NYU,169,169,0,False
+PITT,44,44,0,False
+SDSU,33,33,0,False
+STANFORD,36,36,0,False
+TRINITY,44,44,0,False
+UCLA_1,54,54,0,False
+UM_1,81,81,0,False
+UM_2,30,30,0,False
+USM,60,60,0,False
+YALE,46,46,0,False

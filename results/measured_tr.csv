@@ -1,0 +1,15 @@
+site,N,T,pixdim4_raw,xyzt_units,tr_s,unit_inferred,published_tr_s,agree
+PITT,44,196,1.5,"('mm', 'unknown')",1.5,s,1.5,yes
+LEUVEN_2,30,246,1.6519099473953247,"('mm', 'unknown')",1.6519099473953247,s,1.667,yes
+NYU,169,176,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+UM_1,81,296,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+UM_2,30,296,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+USM,60,236,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+YALE,46,196,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+TRINITY,44,146,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+STANFORD,36,176,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+SDSU,33,176,2.0,"('mm', 'unknown')",2.0,s,2.0,yes
+KKI,39,152,2.5,"('mm', 'unknown')",2.5,s,2.5,yes
+UCLA_1,54,116,3.0,"('mm', 'unknown')",3.0,s,3.0,yes
+MAX_MUN,41,116,3.0,"('mm', 'unknown')",3.0,s,3.0,yes
+CALTECH,35,146,2.0,"('mm', 'unknown')",2.0,s,,n/a

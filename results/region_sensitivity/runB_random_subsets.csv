@@ -1,0 +1,6 @@
+seed,site_off_unstable,site_diag_unstable,site_overall_pct,cond_off_sig,cond_diag_sig,cond_overall_pct
+101,0,50,1.193,211,50,10.44
+202,0,50,1.205,195,50,9.8
+303,0,50,1.204,187,50,9.48
+404,0,50,1.198,176,50,9.04
+505,0,50,1.186,231,50,11.24

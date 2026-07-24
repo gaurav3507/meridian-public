@@ -1,0 +1,17 @@
+# MERIDIAN pinned dependencies (Python 3.11).
+# Exact versions used for the site and condition analyses. See also pyproject.toml
+# and uv.lock. Install with: pip install -r requirements.txt  (or: uv sync)
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.3
+scikit-learn==1.9.0
+nilearn==0.13.1
+nibabel==5.4.2
+statsmodels==0.14.6
+matplotlib==3.11.0
+pillow==12.2.0
+# supporting (harmonization, plotting, progress, notebooks)
+neuroharmonize==2.4.5
+neurocombat==0.2.12
+seaborn==0.13.2
+tqdm==4.68.3

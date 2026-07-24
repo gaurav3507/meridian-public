@@ -1,0 +1,10 @@
+metric,cpac,ccs_as_shipped,ccs_matched
+subjects,742.0,742.0,742.0
+sites,14.0,14.0,14.0
+site pairs,91.0,91.0,91.0
+timepoints T (cohort min crop),116.0,115.0,115.0
+overall reject %,1.06,0.23,1.2
+median |d|/SE,0.75,0.521,0.737
+diagonal unstable (of 50),49.0,9.0,49.0
+off-diagonal unstable (of 2450),0.0,0.0,0.0
+top-50 region overlap with C-PAC,50.0,17.0,42.0

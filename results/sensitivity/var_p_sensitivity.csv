@@ -1,0 +1,10 @@
+overall_pct,median_absz,diag_unstable,diag_total,off_unstable,off_total,kind,p,alpha,n_pairs,dataset_label,aic_order,bic_order
+1.0575824175824176,0.7496346388369299,49,50,0,2450,ABIDE,1,1.0,91.0,site,3,3
+1.1241758241758242,0.7184976658544774,100,100,0,4900,ABIDE,2,1.0,91.0,site,3,3
+1.2032234432234432,0.7124097498636535,150,150,0,7350,ABIDE,3,1.0,91.0,site,3,3
+7.16,1.017809358534121,50,50,129,2450,AOMIC_bootstrap,1,1.0,,condition (unpaired bootstrap),2,1
+4.58,0.8907520212429791,84,100,145,4900,AOMIC_bootstrap,2,1.0,,condition (unpaired bootstrap),2,1
+2.8666666666666667,0.8186296782283333,85,150,130,7350,AOMIC_bootstrap,3,1.0,,condition (unpaired bootstrap),2,1
+4.88,,48,50,74,2450,AOMIC_paired,1,1.0,,condition (per-subject paired t) -- FLAGGED noisy at p>1,2,1
+1.5,,46,100,29,4900,AOMIC_paired,2,1.0,,condition (per-subject paired t) -- FLAGGED noisy at p>1,2,1
+0.5866666666666667,,27,150,17,7350,AOMIC_paired,3,1.0,,condition (per-subject paired t) -- FLAGGED noisy at p>1,2,1
