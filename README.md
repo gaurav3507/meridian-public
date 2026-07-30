@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript *"Site shifts regional autocorrelation,
 condition shifts cross-region coupling: a vector-autoregressive diagnostic for
-grouping variables in fMRI"* (submitted to *Network Neuroscience*, Methods).
+grouping variables in fMRI"*
 
 **What the diagnostic does.** Given a grouping variable (scanning *site*, or
 cognitive *condition*), it fits a first-order vector autoregression, VAR(1)
